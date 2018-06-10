@@ -1,1 +1,1 @@
-# wildlife-tracker
+You need to update the dbConnection.php file with the information for your database.
